@@ -9,8 +9,6 @@ this design is based of  Moritz klein. with a few extras
 
 - LEDs to visualize the output 
 
-  ![Screenshot 2024-06-11 221918](C:\Users\seppe\OneDrive\Afbeeldingen\Schermafbeeldingen\Screenshot 2024-06-11 221918.png)
-
   Needs still work as of now the offset isn't correct and the `Rl/R2` isn't set to the correct current. while testing on a bread board it looked like `10mA` is the max amperage to have a gradual scale.
 
   
