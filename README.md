@@ -10,10 +10,9 @@ this design is based of  Moritz klein. with a few extras
 - LEDs to visualize the output
   use AC coupeling to center the 0V-10V signal
   Needs still work as of now the offset isn't correct and the `Rl/R2` isn't set to the correct current. while testing on a bread board it looked like `10mA` is the max amperage to have a gradual scale.
-
+- maybe a new oscilator (Spanningsgestuurde zaagtand oscillator)
   
-
-- Maybe a triangle wave 
+- Maybe a triangle wave & sine wave
 
 ## Osiloscope module 
 
